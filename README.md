@@ -2,8 +2,7 @@
 
 Sistema desktop em **Java (Swing)** com banco de dados **MySQL**, desenvolvido como atividade da disciplina de Banco de Dados com Java e Swing.
 
-- **Aluno(a):** [Nome completo]
-- **Turma:** [Turma]
+- **Aluno(a):** Maria Clara Kirschner Baz
 - **Tema:** Clínica médica (cadastros, agendamento de consultas e procedimentos realizados)
 
 ## Objetivo
